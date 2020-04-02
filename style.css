@@ -1,0 +1,20 @@
+body, html {
+    height: 100%;
+  }
+
+h1{
+    margin-top: 2em;
+}
+
+.Jumbotron{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('images/surfbg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 60%;
+}
+
+.boutonprix{
+    width: 325px;
+    padding: 3rem;
+}
